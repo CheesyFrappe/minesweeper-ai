@@ -1,7 +1,9 @@
 # minesweeper
 A Minesweeper game that you can play by yourself or let AI play for you.
 
-**Note:** AI will not always win! There will be some cases where the AI must guess, because it lacks sufficient information to make a safe move. On terminal, there will print whether the AI is making a move it believes to be safe or whether it is making a random move.
+**Note:** AI will not always win. There will be some cases where the AI must guess, because it lacks sufficient information to make a safe move. On terminal, there will print whether the AI is making a move it believes to be safe or whether it is making a random move.
+
+![gameplay](https://user-images.githubusercontent.com/80858788/192352925-f3977032-8e29-4e11-ac09-0b1d360f5564.gif)
 
 ## Installation
 
